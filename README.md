@@ -20,8 +20,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
 
-Apaixonado pela área de tecnologia, principalmente no mundo da programação. 💻
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=V-Matheus&bg_color=e4e0f0&color=76A6DD&line=76A6DD&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76A6DD&height=120&section=footer"/>
