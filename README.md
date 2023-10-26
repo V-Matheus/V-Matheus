@@ -8,6 +8,7 @@
     <a href="https://www.linkedin.com/in/victor-matheus507/" target="blank"><img <img height="40px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     <a href="https://www.instagram.com/v_theux/" target="blank"><img <img height="40px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+<hr>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=V-Matheus&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" alt="Victor Matheus github stats" /> 
@@ -116,4 +117,8 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=V-Matheus&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
 
+<hr>
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=V-Matheus&repo=V-Matheus&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas" height="40px" />
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76A6DD&height=120&section=footer"/>
