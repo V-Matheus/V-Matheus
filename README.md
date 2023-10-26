@@ -11,15 +11,95 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Matheus&layout=compact&hide_border=true&title_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" />
 </div>
 
-## Tecnologias que eu uso no meu dia
-
-<div style="displey: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+<h1 align="center">Skills</h1>
+<table align="center" height="300px">
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+        <sub>
+          <b>
+            <pre>HTML5</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
+        <sub>
+          <b>
+            <pre>CSS3</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Javascript</pre>
+          </b>
+        </sub>
+        </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br/>
+      <sub>
+          <b>
+            <pre>Typescript</pre>
+          </b>
+      </sub>
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="react icon"/><br/>
+        <sub>
+          <b>
+            <pre>React</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" width="65px" alt="git icon"/><br/>
+        <sub>
+          <b>
+            <pre>Git</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="github icon"/><br/>
+        <sub>
+          <b>
+            <pre>GitHub</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
+        <sub>
+          <b>
+            <pre>VSCode</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+<br/>
+<hr/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=V-Matheus&bg_color=e4e0f0&color=76A6DD&line=76A6DD&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
