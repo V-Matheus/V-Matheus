@@ -111,6 +111,18 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux"/><br/>
+        <sub>
+          <b>
+            <pre>Redux</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
 </table>
 <br/>
 <hr/>
