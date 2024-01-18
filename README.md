@@ -81,6 +81,16 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://react-redux.js.org/">
+        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux"/><br/>
+        <sub>
+          <b>
+            <pre>Redux</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://git-scm.com/">
         <img src="https://skillicons.dev/icons?i=git" width="65px" alt="git icon"/><br/>
         <sub>
@@ -96,28 +106,6 @@
         <sub>
           <b>
             <pre>GitHub</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
-        <sub>
-          <b>
-            <pre>VSCode</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux"/><br/>
-        <sub>
-          <b>
-            <pre>Redux</pre>
           </b>
         </sub>
       </a>
