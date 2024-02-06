@@ -101,7 +101,7 @@
       </a>
     </td>
      <td align="center">
-      <a href="https://git-scm.com/">
+      <a href="https://github.com/">
         <img src="https://skillicons.dev/icons?i=github" width="65px" alt="github icon"/><br/>
         <sub>
           <b>
