@@ -10,14 +10,25 @@
 </div>
 <hr>
 
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=V-Matheus&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" alt="Victor Matheus github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Matheus&layout=compact&hide_border=true&title_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" />
    <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V-Matheus/V-Matheus/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V-Matheus/V-Matheus/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/V-Matheus/V-Matheus/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+       
  <a href="https://git.io/streak-stats">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=V-Matheus&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
  </a>
+   </div>
 <br/><br/>
+
+
     
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=V-Matheus&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
