@@ -165,51 +165,6 @@
     </td>
     </tr>
     <tr>
-        <td align="center">
-      <a href="https://figma.com/">
-        <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="github icon"/><br/>
-        <sub>
-          <b>
-            <pre>Figma</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://vitejs.dev/">
-        <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="github icon"/><br/>
-        <sub>
-          <b>
-            <pre>Vite</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-        </td>
-        <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="github icon"/><br/>
-        <sub>
-          <b>
-            <pre>Vs Code</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    </td>
-        </td>
-        <td align="center">
-      <a href="https://www.npmjs.com/">
-        <img src="https://skillicons.dev/icons?i=npm" width="65px" alt="github icon"/><br/>
-        <sub>
-          <b>
-            <pre>NPM</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    </tr>
-    <tr>
         </td>
         <td align="center">
       <a href="https://nodejs.org/en">
