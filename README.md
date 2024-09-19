@@ -253,6 +253,96 @@
       </a>
     </td>
     </tr>
+<tr>
+        <td align="center">
+      <a href="https://figma.com/">
+        <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="github icon"/><br/>
+        <sub>
+          <b>
+            <pre>Figma</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://vitejs.dev/">
+        <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="github icon"/><br/>
+        <sub>
+          <b>
+            <pre>Vite</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+        </td>
+        <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="github icon"/><br/>
+        <sub>
+          <b>
+            <pre>Vs Code</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    </td>
+        </td>
+        <td align="center">
+      <a href="https://www.npmjs.com/">
+        <img src="https://skillicons.dev/icons?i=npm" width="65px" alt="github icon"/><br/>
+        <sub>
+          <b>
+            <pre>NPM</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    </tr>
+    <tr>
+        </td>
+        <td align="center">
+      <a href="https://about.gitlab.com/">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="65px" alt="github icon"/><br/>
+        <sub>
+          <b>
+            <pre>GitLab</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    </td>
+        <td align="center">
+      <a href="https://vercel.com/">
+        <img src="https://skillicons.dev/icons?i=vercel" width="65px" alt="github icon"/><br/>
+        <sub>
+          <b>
+            <pre>Vercel</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vuejs.org/">
+        <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="github icon"/><br/>
+        <sub>
+          <b>
+            <pre>Vue</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://https://www.cypress.io/">
+        <img src="https://skillicons.dev/icons?i=cypress" width="65px" alt="github icon"/><br/>
+        <sub>
+          <b>
+            <pre>Cypress</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    </tr>
+    
 </table>
 <br/>
 <hr/>
