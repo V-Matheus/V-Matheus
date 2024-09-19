@@ -305,7 +305,4 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=V-Matheus&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
 
 <hr>
-<div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=V-Matheus&repo=V-Matheus&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas" height="40px" />
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76A6DD&height=120&section=footer"/>
