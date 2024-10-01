@@ -297,6 +297,18 @@
       </a>
     </td>
     </tr>
+    <tr>
+        <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="github icon"/><br/>
+        <sub>
+          <b>
+            <pre>MySql</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    </tr>
     
 </table>
 <br/>
