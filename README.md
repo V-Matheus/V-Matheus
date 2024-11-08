@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=V-Matheus&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" alt="Victor Matheus github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Matheus&layout=compact&hide_border=true&title_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=V-Matheus&show_icons=true&include_all_commits=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" alt="Victor Matheus github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Matheus&layout=compact&hide=python,assembly,java&hide_border=true&title_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" />
    <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V-Matheus/V-Matheus/output/github-contribution-grid-snake-dark.svg">
