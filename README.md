@@ -307,16 +307,6 @@
         </sub>
       </a>
     </td>
-        <td align="center">
-      <a href="https://www.swift.org/">
-        <img src="https://skillicons.dev/icons?i=swift" width="65px" alt="github icon"/><br/>
-        <sub>
-          <b>
-            <pre>Swift</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
     </tr>
     
 </table>
