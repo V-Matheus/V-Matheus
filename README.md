@@ -70,7 +70,7 @@
     </td>
     <td align="center">
       <a href="https://www.typescriptlang.org/">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br/>
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Typescript icon"/><br/>
       <sub>
           <b>
             <pre>Typescript</pre>
@@ -92,7 +92,7 @@
     </td>
     <td align="center">
       <a href="https://react-redux.js.org/">
-        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux"/><br/>
+        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux icon"/><br/>
         <sub>
           <b>
             <pre>Redux</pre>
@@ -102,7 +102,7 @@
     </td>
     <td align="center">
       <a href="https://git-scm.com/">
-        <img src="https://skillicons.dev/icons?i=git" width="65px" alt="git icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br/>
         <sub>
           <b>
             <pre>Git</pre>
@@ -112,7 +112,7 @@
     </td>
      <td align="center">
       <a href="https://github.com/">
-        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br/>
         <sub>
           <b>
             <pre>GitHub</pre>
@@ -124,7 +124,7 @@
   <tr>
      <td align="center">
       <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt="Styled Components icon"/><br/>
         <sub>
           <b>
             <pre>Styled Components</pre>
@@ -134,7 +134,7 @@
     </td>
        <td align="center">
       <a href="https://tailwindcss.com/">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
         <sub>
           <b>
             <pre>Tailwind</pre>
@@ -144,7 +144,7 @@
     </td>
     <td align="center">
       <a href="https://getbootstrap.com/">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
         <sub>
           <b>
             <pre>Bootstrap</pre>
@@ -154,7 +154,7 @@
     </td>
     <td align="center">
       <a href=https://sass-lang.com/">
-        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
         <sub>
           <b>
             <pre>Sass</pre>
@@ -167,7 +167,7 @@
         </td>
         <td align="center">
       <a href="https://nodejs.org/en">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br/>
         <sub>
           <b>
             <pre>NodeJS</pre>
@@ -178,7 +178,7 @@
     </td>
         <td align="center">
       <a href="https://www.prisma.io/">
-        <img src="https://skillicons.dev/icons?i=prisma" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=prisma" width="65px" alt="Prisma icon"/><br/>
         <sub>
           <b>
             <pre>Prisma</pre>
@@ -188,7 +188,7 @@
     </td>
     <td align="center">
       <a href="https://nextjs.org/">
-        <img src="https://skillicons.dev/icons?i=next" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=next" width="65px" alt="Next icon"/><br/>
         <sub>
           <b>
             <pre>Next</pre>
@@ -198,7 +198,7 @@
     </td>
     <td align="center">
       <a href="https://angular.io/">
-        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br/>
         <sub>
           <b>
             <pre>Angular</pre>
@@ -210,7 +210,7 @@
 <tr>
         <td align="center">
       <a href="https://figma.com/">
-        <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br/>
         <sub>
           <b>
             <pre>Figma</pre>
@@ -220,7 +220,7 @@
     </td>
         <td align="center">
       <a href="https://vitejs.dev/">
-        <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br/>
         <sub>
           <b>
             <pre>Vite</pre>
@@ -230,11 +230,11 @@
     </td>
         </td>
         <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="github icon"/><br/>
+      <a href="https://yarnpkg.com/">
+        <img src="https://skillicons.dev/icons?i=yarn" width="65px" alt="Yarn icon"/><br/>
         <sub>
           <b>
-            <pre>Vs Code</pre>
+            <pre>Yarn</pre>
           </b>
         </sub>
       </a>
@@ -243,7 +243,7 @@
         </td>
         <td align="center">
       <a href="https://www.npmjs.com/">
-        <img src="https://skillicons.dev/icons?i=npm" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=npm" width="65px" alt="NPM icon"/><br/>
         <sub>
           <b>
             <pre>NPM</pre>
@@ -256,7 +256,7 @@
         </td>
         <td align="center">
       <a href="https://about.gitlab.com/">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=gitlab" width="65px" alt="GitLab icon"/><br/>
         <sub>
           <b>
             <pre>GitLab</pre>
@@ -267,7 +267,7 @@
     </td>
         <td align="center">
       <a href="https://vercel.com/">
-        <img src="https://skillicons.dev/icons?i=vercel" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=vercel" width="65px" alt="Vercel icon"/><br/>
         <sub>
           <b>
             <pre>Vercel</pre>
@@ -277,7 +277,7 @@
     </td>
     <td align="center">
       <a href="https://vuejs.org/">
-        <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="Vue icon"/><br/>
         <sub>
           <b>
             <pre>Vue</pre>
@@ -287,7 +287,7 @@
     </td>
     <td align="center">
       <a href="https://https://www.cypress.io/">
-        <img src="https://skillicons.dev/icons?i=cypress" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=cypress" width="65px" alt="Cypress icon"/><br/>
         <sub>
           <b>
             <pre>Cypress</pre>
@@ -297,9 +297,29 @@
     </td>
     </tr>
     <tr>
+          <td align="center">
+      <a href="https://jestjs.io/pt-BR/">
+        <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="Jest icon"/><br/>
+        <sub>
+          <b>
+            <pre>Jest</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+         <td align="center">
+      <a href="https://testing-library.com/">
+        <img src="https://testing-library.com/img/octopus-64x64.png" width="65px" alt="Testing Library icon"/><br/>
+        <sub>
+          <b>
+            <pre>Testing Library</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
         <td align="center">
       <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="github icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySql icon"/><br/>
         <sub>
           <b>
             <pre>MySql</pre>
