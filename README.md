@@ -327,6 +327,16 @@
         </sub>
       </a>
     </td>
+         <td align="center">
+      <a href="https://expo.dev/">
+        <img src="https://icons-for-free.com/iff/png/256/Expo-1329545818230359497.png" width="65px" alt="Expo icon"/><br/>
+        <sub>
+          <b>
+            <pre>Expo</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
     </tr>
     
 </table>
