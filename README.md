@@ -3,21 +3,29 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=76A6DD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Victor+Matheus+👋;Programador+Front+End;)](https://git.io/typing-svg)
 
 <h1 align="center"> Social </h1>
+
 <div align="center">
-    <a href="https://victormatheus507@gmail.com"><img <img height="40px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/victor-matheus507/" target="blank"><img <img height="40px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://www.instagram.com/v_theux/" target="blank"><img <img height="40px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/victor-matheus507/" target="blank">
+         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+     </a>
+    <a href="https://www.instagram.com/v_theux/" target="blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    </a>
 </div>
+
 <hr>
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=V-Matheus&show_icons=true&hide_border=true&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" alt="Victor Matheus github stats" /> 
+   <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=V-Matheus&show_icons=true&hide_border=true&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" alt="Victor Matheus github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Matheus&layout=compact&hide=python,assembly,java&hide_border=true&title_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" />
-   <div align="center">
+<div align="center">
+       
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V-Matheus/V-Matheus/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V-Matheus/V-Matheus/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/V-Matheus/V-Matheus/output/github-contribution-grid-snake.svg">
 </picture>
+       
 <br><br>
        
  <a href="https://git.io/streak-stats">
@@ -26,8 +34,6 @@
  </a>
    </div>
 <br/><br/>
-
-
     
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=V-Matheus&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
