@@ -27,13 +27,7 @@
 </picture>
        
 <br><br>
-       
- <a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=V-Matheus&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
-     
- </a>
-   </div>
-<br/><br/>
+      
     
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=V-Matheus&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
